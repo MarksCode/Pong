@@ -1,2 +1,3 @@
 # Pong
-Pong Game
+
+Pong game implemented in javascript
